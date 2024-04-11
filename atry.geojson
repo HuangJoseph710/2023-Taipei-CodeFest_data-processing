@@ -1,0 +1,14 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "atry0915",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5436, 25.0261],
+				"malePercentage":42.3
+			}
+		}
+	]
+}

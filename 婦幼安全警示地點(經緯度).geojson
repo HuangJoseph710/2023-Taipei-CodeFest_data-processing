@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52039,
+                    25.05266
+                ]
+            },
+            "properties": {
+                "dist": "大同區",
+                "light_count": "捷運中山站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50719,
+                    25.04347
+                ]
+            },
+            "properties": {
+                "dist": "萬華區",
+                "light_count": "峨嵋街、漢中街口(捷運西門站)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49936,
+                    25.03539
+                ]
+            },
+            "properties": {
+                "dist": "萬華區",
+                "light_count": "西園路、和平西路口(捷運龍山寺站)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53301,
+                    25.05203
+                ]
+            },
+            "properties": {
+                "dist": "中山區",
+                "light_count": "捷運松江南京站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5254,
+                    25.06269
+                ]
+            },
+            "properties": {
+                "dist": "中山區",
+                "light_count": "捷運中山國小站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54378,
+                    25.04163
+                ]
+            },
+            "properties": {
+                "dist": "大安區",
+                "light_count": "捷運忠孝復興站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51753,
+                    25.04625
+                ]
+            },
+            "properties": {
+                "dist": "中正區",
+                "light_count": "捷運臺北車站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515,
+                    25.04179
+                ]
+            },
+            "properties": {
+                "dist": "中正區",
+                "light_count": "二二八公園"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52256,
+                    25.02686
+                ]
+            },
+            "properties": {
+                "dist": "中正區",
+                "light_count": "捷運古亭站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56479,
+                    25.05782
+                ]
+            },
+            "properties": {
+                "dist": "松山區",
+                "light_count": "新東街9巷"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56692,
+                    25.03399
+                ]
+            },
+            "properties": {
+                "dist": "信義區",
+                "light_count": "松廉路段(松仁路至松智路區塊內之廊道及空橋)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56692,
+                    25.03584
+                ]
+            },
+            "properties": {
+                "dist": "信義區",
+                "light_count": "松壽路段(松智路至松仁路)"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52498,
+                    25.08428
+                ]
+            },
+            "properties": {
+                "dist": "北投區",
+                "light_count": "捷運劍潭站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51558,
+                    25.11448
+                ]
+            },
+            "properties": {
+                "dist": "北投區",
+                "light_count": "捷運石牌站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57231,
+                    24.98789
+                ]
+            },
+            "properties": {
+                "dist": "文山區",
+                "light_count": "指南路道南橋下涵洞附近"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55804,
+                    24.99941
+                ]
+            },
+            "properties": {
+                "dist": "文山區",
+                "light_count": "捷運萬芳醫院站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61783,
+                    25.05534
+                ]
+            },
+            "properties": {
+                "dist": "南港區",
+                "light_count": "捷運南港展覽館站"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.57154,
+                    25.05601
+                ]
+            },
+            "properties": {
+                "dist": "內湖區",
+                "light_count": "麥帥二橋下河濱公園"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60854,
+                    25.07527
+                ]
+            },
+            "properties": {
+                "dist": "內湖區",
+                "light_count": "成功路五段420巷"
+            }
+        }
+    ]
+}
